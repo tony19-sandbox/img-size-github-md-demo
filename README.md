@@ -9,4 +9,4 @@ http://stackoverflow.com/questions/14675913/how-to-change-image-size-markdown
 |[:link:](http://stackoverflow.com/a/21972032/6277151)|`<img src="URL" width="200" height="200" />`|<img src="http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif" width="200" height="200" />|:white_check_mark:|
 |[:link:](http://stackoverflow.com/a/33566654/6277151)|`<img src="URL" width="200">`|<img src="http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif" width="200">|:white_check_mark:|
 |[:link:](http://stackoverflow.com/a/30973855/6277151)|`![smiley](URL){:height="200px" width="200px"}`|![smiley](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif){:height="200px" width="200px"}|:x:|
-|[:link:](https://github.com/tiimgreen/github-cheat-sheet#imagesgifs)|`[[ URL | width = 200px ]]`|(see Wiki for demo)|`Wiki`: :white_check_mark: `README`::x:|
+|[:link:](https://github.com/tiimgreen/github-cheat-sheet#imagesgifs)|`[[ URL | width = 200px ]]`|(see [Wiki](https://github.com/tony19-sandbox/img-size-github-md-demo/wiki) for demo)|`Wiki`: :white_check_mark: `README`::x:|
